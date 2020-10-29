@@ -1,0 +1,7 @@
+.dockerignore
+.git
+.gitignore
+.eslintrc.js
+tsconfig.json
+docker-compose.yml
+Dockerfile
